@@ -6,7 +6,11 @@
     Here is your very own personalised app to track your progress
   </p>
   
-  <img src="../assets/B2" alt="Bdog">
+  <div class="flex">
+    <img class="bramble"
+     src="/B2.jpg" alt="Bdog">
+  </div>
+  
 
   
 </template>
@@ -18,5 +22,13 @@ export default {
 </script>
 
 <style>
+.flex {
+  display: flex;
+  width: 100vw;
+}
+
+.bramble {
+  width: 100%;
+}
 
 </style>
