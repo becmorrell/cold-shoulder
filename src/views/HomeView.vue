@@ -8,7 +8,7 @@
   
   <div class="flex">
     <img class="bramble"
-     src="/B2.jpg" alt="Bdog">
+     src="/B2.JPG" alt="Bdog">
   </div>
   
 
